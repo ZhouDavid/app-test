@@ -1,0 +1,5 @@
+version: 1
+name: "sample-databricks-app"
+description: "A sample Databricks application demonstrating various resource types and permissions"
+
+
